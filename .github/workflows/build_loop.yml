@@ -283,7 +283,6 @@ jobs:
           https://raw.githubusercontent.com/loopandlearn/lnl-scripts/main/CustomizationSelect.sh)" \
           dexcom_upload_readings \
           low_carb_limit \
-          override_sens \
           lnl_icon \
           watch_title \
           2hlollipop \
